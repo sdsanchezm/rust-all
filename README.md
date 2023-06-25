@@ -10,9 +10,10 @@ Just coding nice staf in rust lang
 
 - path: `c:/users/<thebestwindowsuserintheworldxd>/.cargo/bin`
 
-### community
+### community and google curse
 
 - [https://rustaceans.org/](https://rustaceans.org/)
+- [https://google.github.io/comprehensive-rust/](https://google.github.io/comprehensive-rust/)
 
 ### Notes
 
@@ -73,3 +74,7 @@ Just coding nice staf in rust lang
     ```
     - it is a lib, and is into the `src` folder
 
+
+## for the game
+
+- `cargo new rust-pong`
